@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/0/53cec785678e4514b1f0e06271e407ea/artifacts
+end_time: 1752238410959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53cec785678e4514b1f0e06271e407ea
+run_name: chill-toad-884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752238410106
+status: 3
+tags: []
+user_id: Sandesh Hegde

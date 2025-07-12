@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/155879209792329402/1475985b3db449e399b73453cdf7a54f/artifacts
+end_time: 1752241555198
+entry_point_name: ''
+experiment_id: '155879209792329402'
+lifecycle_stage: active
+run_id: 1475985b3db449e399b73453cdf7a54f
+run_name: luminous-snail-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752241554184
+status: 4
+tags: []
+user_id: Sandesh Hegde

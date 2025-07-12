@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/0/d1eb628b0ebf4f07894ec5008c0ac212/artifacts
+end_time: 1752066238187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1eb628b0ebf4f07894ec5008c0ac212
+run_name: chill-penguin-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066238002
+status: 3
+tags: []
+user_id: Sandesh Hegde

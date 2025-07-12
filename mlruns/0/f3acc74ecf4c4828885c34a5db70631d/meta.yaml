@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/0/f3acc74ecf4c4828885c34a5db70631d/artifacts
+end_time: 1752066112349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3acc74ecf4c4828885c34a5db70631d
+run_name: monumental-doe-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066112153
+status: 4
+tags: []
+user_id: Sandesh Hegde

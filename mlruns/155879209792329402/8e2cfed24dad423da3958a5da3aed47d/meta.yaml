@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/155879209792329402/8e2cfed24dad423da3958a5da3aed47d/artifacts
+end_time: 1752241615083
+entry_point_name: ''
+experiment_id: '155879209792329402'
+lifecycle_stage: active
+run_id: 8e2cfed24dad423da3958a5da3aed47d
+run_name: handsome-cod-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752241613928
+status: 4
+tags: []
+user_id: Sandesh Hegde

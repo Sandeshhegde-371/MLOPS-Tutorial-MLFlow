@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/0/b0d4ac74919e40a58c221eb0128bad3d/artifacts
+end_time: 1752237912688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0d4ac74919e40a58c221eb0128bad3d
+run_name: rogue-squirrel-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752237910578
+status: 3
+tags: []
+user_id: Sandesh Hegde

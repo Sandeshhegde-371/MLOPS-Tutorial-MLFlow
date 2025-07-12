@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/155879209792329402/44b2df6afd1c4f52bf7a55b3925a5b35/artifacts
+end_time: 1752241801448
+entry_point_name: ''
+experiment_id: '155879209792329402'
+lifecycle_stage: active
+run_id: 44b2df6afd1c4f52bf7a55b3925a5b35
+run_name: burly-mule-881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752241787831
+status: 3
+tags: []
+user_id: Sandesh Hegde

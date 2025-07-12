@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/155879209792329402/2431ae08fcdb46d7b9e1c498973a426c/artifacts
+end_time: 1752238571887
+entry_point_name: ''
+experiment_id: '155879209792329402'
+lifecycle_stage: active
+run_id: 2431ae08fcdb46d7b9e1c498973a426c
+run_name: receptive-ape-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752238570968
+status: 3
+tags: []
+user_id: Sandesh Hegde

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/0/e4078557aed34878a12f1411d3a63419/artifacts
+end_time: 1752066090269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4078557aed34878a12f1411d3a63419
+run_name: masked-zebra-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752066089997
+status: 4
+tags: []
+user_id: Sandesh Hegde
