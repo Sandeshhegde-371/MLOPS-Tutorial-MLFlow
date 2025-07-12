@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/443990754151612046/09fe1bb50fcd4b5f98f0066b10560902/artifacts
+end_time: 1752325167582
+entry_point_name: ''
+experiment_id: '443990754151612046'
+lifecycle_stage: active
+run_id: 09fe1bb50fcd4b5f98f0066b10560902
+run_name: melodic-foal-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752325167426
+status: 3
+tags: []
+user_id: Sandesh Hegde

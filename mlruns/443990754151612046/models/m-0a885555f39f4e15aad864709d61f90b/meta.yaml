@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/443990754151612046/models/m-0a885555f39f4e15aad864709d61f90b/artifacts
+creation_timestamp: 1752324758070
+experiment_id: '443990754151612046'
+last_updated_timestamp: 1752324773432
+model_id: m-0a885555f39f4e15aad864709d61f90b
+model_type: null
+name: best_model
+source_run_id: a7816fcdc5ba401d914e1509353effbe
+status: 2
+status_message: null

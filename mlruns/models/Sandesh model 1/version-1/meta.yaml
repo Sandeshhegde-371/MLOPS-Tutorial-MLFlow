@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1752325712755
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1752325712755
+metrics: null
+model_id: m-e425d42b5a7e47f69c6f078ac48a5155
+name: Sandesh model 1
+params: null
+run_id: ''
+run_link: ''
+source: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/443990754151612046/models/m-e425d42b5a7e47f69c6f078ac48a5155/artifacts
+status: READY
+status_message: null
+storage_location: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/443990754151612046/models/m-e425d42b5a7e47f69c6f078ac48a5155/artifacts
+user_id: null
+version: 1

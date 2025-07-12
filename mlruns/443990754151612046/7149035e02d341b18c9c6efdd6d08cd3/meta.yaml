@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Courses/MLOps/MLOPS-Tutorial-MLFlow/mlruns/443990754151612046/7149035e02d341b18c9c6efdd6d08cd3/artifacts
+end_time: 1752325166323
+entry_point_name: ''
+experiment_id: '443990754151612046'
+lifecycle_stage: active
+run_id: 7149035e02d341b18c9c6efdd6d08cd3
+run_name: calm-bug-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752325166175
+status: 3
+tags: []
+user_id: Sandesh Hegde
